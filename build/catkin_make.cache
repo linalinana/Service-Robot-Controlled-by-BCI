@@ -1,0 +1,2 @@
+darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:dynamixel:dynamixel_motor/dynamixel_controllers:dynamixel_motor/dynamixel_driver:dynamixel_motor/dynamixel_motor:dynamixel_motor/dynamixel_msgs:dynamixel_motor/dynamixel_tutorials:topic_demo
+-DCATKIN_DEVEL_PREFIX=/home/nana/catkin_ws /devel -DCMAKE_INSTALL_PREFIX=/home/nana/catkin_ws /install -G Unix Makefiles
